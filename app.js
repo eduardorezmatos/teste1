@@ -2,7 +2,7 @@
 const pessoas = [
     {
         frase: "Quem sempre esteve comigo",
-        fotos: ["images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg"
+        fotos: ["images/IMG-20260406-WA0072.jpg", "images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg"
             ,"images/IMG-20260326-WA0062.jpg" 
         ],
         carta: "testeteste",
