@@ -1,14 +1,72 @@
 //pessoas
 const pessoas = [
+
+    // giovana
+
     {
+        nome : "Giovana",
         frase: "Quem sempre esteve comigo",
-        fotos: ["images/IMG-20260406-WA0072.jpg", "images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg"
+        fotos: ["images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg"
             ,"images/IMG-20260326-WA0062.jpg" 
         ],
-        carta: "testeteste",
+        carta: `asda`,
         musica: "https://open.spotify.com/embed/track/7e3XFd0hFNPvisBMDxLKrc"
     },
+    
+    //eduardo
+    
     {
+        nome: "Eduardo",
+        frase: "A pessoa que sempre traz paz",
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        carta: "Você é incrível !",
+        musica: "https://open.spotify.com/embed/track/ID2"
+    },
+
+    //joao
+
+    {
+        nome: "Joao Pedro",
+        frase: "A pessoa que sempre traz paz",
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        carta: "Você é incrível!",
+        musica: "https://open.spotify.com/embed/track/ID2"
+    },
+
+    //igor
+
+    {
+        nome: "Igor",
+        frase: "A pessoa que sempre traz paz",
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        carta: "Você é incrível!",
+        musica: "https://open.spotify.com/embed/track/ID2"
+    },
+
+    //natalia
+
+    {
+        nome: "Natalia",
+        frase: "A pessoa que sempre traz paz",
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        carta: "Você é incrível!",
+        musica: "https://open.spotify.com/embed/track/ID2"
+    },
+
+    //marilia
+
+    {
+        nome: "Marilia",
+        frase: "A pessoa que sempre traz paz",
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        carta: "Você é incrível!",
+        musica: "https://open.spotify.com/embed/track/ID2"
+    },
+
+    //ana elisa
+
+    {
+        nome: "Ana Elisa",
         frase: "A pessoa que sempre traz paz",
         fotos: ["images/foto3.jpg", "images/foto4.jpg"],
         carta: "Você é incrível!",
@@ -21,6 +79,7 @@ let slideAtual = 0;
 function atualizarTela(){
     const pessoa = pessoas[slideAtual];
 
+    document.getElementById("nome").innerText = pessoa.nome;
     document.getElementById("frase").innerText = pessoa.frase;
     document.getElementById("spotify").src = pessoa.musica;
 
