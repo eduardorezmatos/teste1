@@ -13,44 +13,56 @@
 
     <h1>✨Feliz Anivesário Laís!!!✨</h1>
     
-   <div class="quadro-branco">
+    <div class="quadro-branco">
 
-    <!-- voltar -->
-    <button class="seta esquerda" onclick="mudarSlide(-1)">◀</button>
+        <!-- voltar -->
+        <button class="seta esquerda" onclick="mudarSlide(-1)">◀</button>
 
-    <!-- frase -->
-    <h3 id="frase"></h3>
+        <!-- Cabeçalho -->
+        <div class="cabecalho">
 
-    <!-- spotify -->
-    <iframe 
-        id="spotify"
-        width="100%"
-        height="152"
-        frameborder="0"
-        allow="autoplay; encrypted-media">
-    </iframe>
+            <!-- Nome -->
+            <h4 id="nome"></h4>
+            <!-- frase -->
+            <h3 id="frase"></h3>
 
-    <!-- fotos -->
-    <div id="fotos" class="grid-fotos"></div>
+        </div>
 
-    <!-- cartinha -->
-    <button class="botao-carta" onclick="abrirPopup()">Abrir cartinha 💌</button>
+        <!-- spotify -->
+        <iframe 
+            id="spotify"
+            width="100%"
+            height="152"
+            frameborder="0"
+            allow="autoplay; encrypted-media">
+        </iframe>
 
-    <!-- avançar -->
-    <button class="seta direita" onclick="mudarSlide(1)">▶</button>
+        <!-- fotos -->
+        <div id="fotos" class="grid-fotos"></div>
 
-</div>
-<div id="vizualizador" class = "vizualizador" onclick="fecharImagem()">
-    <img id = "img-ampliada">
-</div>
+        <!-- cartinha -->
+        <button class="botao-carta" onclick="abrirPopup()">Abrir cartinha 💌</button>
 
-<!-- popup -->
-<div id="popup-carta" class="popup">
-    <div class="conteudo-popup">
-        <p id="texto-carta"></p>
-        <button class = "fechar-popup" onclick="fecharPopup()">Fechar</button>
+        <!-- avançar -->
+        <button class="seta direita" onclick="mudarSlide(1)">▶</button>
     </div>
-</div>
+
+    <!-- abrir as fotos -->
+    <div id="vizualizador" class = "vizualizador" onclick="fecharImagem()">
+        <img id = "img-ampliada">
+    </div>
+
+    <!-- popup da mensagem -->
+    <div id="popup-carta" class="popup">
+        <div class="conteudo-popup">
+            <p id="texto-carta"></p>
+            <button class = "fechar-popup" onclick="fecharPopup()">Fechar</button>
+        </div>
+    </div>
+
+    <footer>
+        Copyright Edardo 2026 ©
+    </footer>
 
 <script src="app.js"></script>
 
