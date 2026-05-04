@@ -176,6 +176,27 @@ footer {
   border-radius: 10px;
 }
 
+.botao-spotify {
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+
+  padding: 10px 15px;
+  border-radius: 20px;
+
+  background: #1DB954;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+
+  width: fit-content;
+}
+
+
+.botao-spotify:hover {
+  background: #17a74a;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 22px;
