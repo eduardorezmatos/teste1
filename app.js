@@ -16,17 +16,39 @@ const pessoas = [
     {
         nome: "Eduardo",
         frase: "Sua dose diária de tormento",
-        fotos: ["images/eduardo1.jpg", "images/eduardo2.jpeg", "images/eduardo3.jpg", "images/eduardo4.jpg"],
+        fotos: ["images/eduardo1.jpg", "images/eduardo2.jpeg", "images/eduardo3.jpg", "images/eduardo5.jpg"],
         carta: `PARABENS LAISSS!!
                 
-                te desejo tudo do bom e do melhor, muita saúde, dinheiro, amores que não sejam doidos. 
                 aiai oq mais eu poderia falar pra minha melhor amiga né?
+                te desejo tudo do bom e do melhor, muita saúde, dinheiro, amores que não sejam doidos. 
                 queria muuito te agradecer por todos os momentos que passamos juntos, acho que sou o seu amigo mais "recente" do grupo mas eu sinto que somos amigos há anos, saiba que sou eternamente grato pela nossa amizade, por todos os seus VÁRIOS ensinamentos, conselhos, por todo o apoio, as memórias que criamos juntos, os momentos felizes, tristes, de brigas, de risos, por toda a compreensão com meus defeitos/manias.
+                
                 Espero que continue sendo essa mulher(🤏) tão sorridente, animada, companheira, amiga e carinhosa (as vezes), você tem um dom de iluminar qualquer ambiente que você entra (literalmente) e deixa o clima tão agradável. Como te falei naquele dia no carro, acredito que vc ainda não tem ideia do quão sortudas as pessoas são por terem a Laís na vida delas e só é triste quem ainda não teve a chance de te conhecer. (Eclesiastes 6-14)
                 Estarei aqui pra tudo o que você precisar, um ombro pra chorar, uma resenha pra espairecer, uma companhia pra desabafar, enfim qualquer coisa
                 Eu te amo muito muito. amo nossas brincadeiras de autistas, nossas brigas de irmão. 
-                um beijo pra ti, nível 2🤣 <3`,
+                
+                um beijo nível 2🤣 te amo mto `,
         musica: "https://open.spotify.com/embed/track/5zCJvrT3C7cIfHsR5iG95l"
+    },
+
+    //Eduardo Padrasto
+
+    {
+        nome: `Eduardo Albuquerque
+               Padrasto`,
+        frase: "Esses momentos que não precisam de palavras, apenas da alegria de ver você feliz",
+        fotos: ["images/eduardo_albuquerque1.jpeg", "images/eduardo_albuquerque2.jpeg", "images/eduardo_albuquerque3.jpeg", "images/eduardo_albuquerque4.jpeg"],
+        carta: `Lais,
+                Hoje você completa 19 anos e, ao olhar para a mulher que você está se tornando, vejo alguém que está construindo o próprio caminho
+                Como compartilhamos o interesse pelo mundo da computação, não consigo deixar de notar o quão parecido com um bom código é o seu jeito de ser. Você é uma pessoa reservada, mas, para quem sabe ler as entrelinhas, sua presença é cheia de significado. Você não gasta processamento com o que é superficial; prefere focar no que é essencial e lógico.
+                Admiro profundamente a sua dedicação aos estudos. Nos estudos assim como na vida, sabemos que sucessos não surgem do dia para a noite; eles são o resultado de persistência, de testar, errar e refinar cada etapa, como em um programa. 
+                Que neste seu novo ciclo, você consiga 'compilar' todos os seus sonhos sem erros e que sua vida tenha sempre a estrutura sólida de quem sabe onde quer chegar. Saiba que, na sua rede de apoio, eu sempre serei um nó de suporte, pronto para ajudar você a resolver qualquer desafio.
+                Parabéns pelos 19 anos!"
+
+                Um abraço com muito carinho
+
+                Eduardo`,
+        musica: "https://open.spotify.com/embed/track/1u8c2t2Cy7UBoG4ArRcF5g"
     },
 
     // giovana
