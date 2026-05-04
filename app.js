@@ -56,7 +56,7 @@ const pessoas = [
     {
         nome: "Joao Pedro",
         frase: "A pessoa que sempre traz paz",
-        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        fotos: ["images/joao_pedro1.jpeg", "images/joao_pedro2.jpeg", "images/joao_pedro3.jpeg", "images/joao_pedro4.jpeg"],
         carta: "Você é incrível!",
         musica: "https://open.spotify.com/embed/track/ID2"
     },
