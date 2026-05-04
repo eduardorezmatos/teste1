@@ -19,6 +19,19 @@ h1 {
   margin-bottom: 5px;
 }
 
+#texto-carta {
+  font-size: 15px;
+  line-height: 1.6;        
+  text-align: left;        
+  white-space: pre-line;    
+  color: #333;
+
+  max-width: 260px;        
+  margin: 0 auto;
+
+  font-family: 'Georgia', serif;
+}
+
 body {
   background: linear-gradient(to bottom right,#FFD1DC, #AEC6CF, #B2F2BB);
   background-attachment: fixed; 
@@ -125,11 +138,14 @@ footer {
 }
 
 .conteudo-popup {
-    background: white;
-    padding: 20px;
-    border-radius: 15px;
-    max-width: 300px;
-    text-align: center;
+  background: #fff;
+  padding: 25px;
+  border-radius: 20px;
+  max-width: 400px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
 .fechar-popup{
