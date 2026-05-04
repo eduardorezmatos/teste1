@@ -56,7 +56,7 @@ const pessoas = [
     {
         nome: "Joao Pedro",
         frase: "A pessoa que sempre traz paz",
-        fotos: ["images/joao_pedro1.jpeg", "images/joao_pedro2.jpeg", "images/joao_pedro3.jpeg", "images/joao_pedro4.jpeg"],
+        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
         carta: "Você é incrível!",
         musica: "https://open.spotify.com/embed/track/ID2"
     },
@@ -109,6 +109,11 @@ function atualizarTela(){
     document.getElementById("nome").innerText = pessoa.nome;
     document.getElementById("frase").innerText = pessoa.frase;
     document.getElementById("spotify").src = pessoa.musica;
+
+    const link = document.getElementById("abrir-spotify");
+    link.href = pessoa.musica
+    .replace("embed/track/", "track/")
+    .replace("open.spotify.com", "open.spotify.com");
 
     const container = document.getElementById("fotos");
     container.innerHTML = "";
