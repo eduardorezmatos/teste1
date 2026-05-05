@@ -5,9 +5,12 @@ const pessoas = [
 
     {
         nome: "Ana Elisa",
-        frase: "A pessoa que sempre traz paz",
+        frase: "Minha irmã e eu",
         fotos: ["images/ana_elisa1.jpeg", "images/ana_elisa2.jpeg", "images/ana_elisa3.jpeg", "images/ana_elisa4.jpeg"],
-        carta: "Você é incrível!",
+        carta: `Oi lá, Tudo bem? Estou escrevendo essa carta no dia 04/05, quando o Eduardo pediu para surpresa que ele está fazendo. Você sabe que eu não sou boa de palavras, e que a gente não conversa muito, mas quero que você saiba que eu te amo demais, tem hora que dá vontade te bater tanto, mas eu ainda continuo te amando. 
+                Obrigada por ser minha irmã, por ser minha conselheira, minha companheira para quase tudo. Que você aproveite muito seus 19 anos, aproveite toda a vida do jeito que você gosta.  
+        
+                Te amo muito, saiba que sempre pode contar comigo pra tudo. Te ammmmooooooo Ana Elisa  04/05/2026 `,
         musica: "https://open.spotify.com/embed/track/66YywMJbAgzQrGkFKjnSsK"
     },
 
@@ -77,9 +80,10 @@ const pessoas = [
 
     {
         nome: "Joao Pedro",
-        frase: "A pessoa que sempre traz paz",
+        frase: "Que hoje a sua prioridade maior seja simplesmente ser mais feliz.",
         fotos: ["images/joao_pedro1.jpeg", "images/joao_pedro2.jpeg", "images/joao_pedro3.jpeg", "images/joao_pedro4.jpeg"],
-        carta: "Você é incrível!",
+        carta: `A gente não é só amigo, é dupla do caos mesmo metade juízo, metade problema… e ainda assim a Lais me aguenta! 
+                Feliz aniversário pra essa albina que eu não troco por nada!”`,
         musica: "https://open.spotify.com/embed/track/ID2"
     },
 
