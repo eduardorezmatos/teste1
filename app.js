@@ -71,9 +71,9 @@ const pessoas = [
     {
         nome: "Igor",
         frase: "A pessoa que sempre traz paz",
-        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
+        fotos: ["images/igor1.jpeg", "images/igor2.jpeg", "images/igor3.jpeg", "images/igor4.jpeg"],
         carta: "Você é incrível!",
-        musica: "https://open.spotify.com/embed/track/ID2"
+        musica: "https://open.spotify.com/embed/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     
     //joao
@@ -117,10 +117,18 @@ const pessoas = [
 
     {
         nome: "Natalia",
-        frase: "A pessoa que sempre traz paz",
-        fotos: ["images/foto3.jpg", "images/foto4.jpg"],
-        carta: "Você é incrível!",
-        musica: "https://open.spotify.com/embed/track/ID2"
+        frase: "Amizade que acolhe, cuida e nunca vai embora",
+        fotos: ["images/natalia1.jpeg", "images/natalia2.jpeg", "images/natalia3.jpeg", "images/natalia4.jpeg"],
+        carta: `LAIZOCAAAAAAAA!  hoje é seu dia e eu não poderia deixar de te lembrar o quanto você é especial pra mim. São 15 anos de amizade, praticamente uma vida inteira juntas, crescendo, mudando, vivendo tantas fases e você sempre esteve ao meu lado.
+
+                Sou muito grata por cada risada, cada conversa, cada momento que a gente compartilhou. Você é aquela pessoa que eu sei que posso contar pra tudo, e isso não tem preço. Sua amizade é um dos presentes mais importantes da minha vida.
+    
+                Peço a Deus que abençoe muito a sua vida, que ilumine seus caminhos, te dê saúde, paz e realize todos os seus sonhos.
+
+                Te desejo um aniversário cheio de alegria, amor e coisas boas, porque você merece o melhor sempre. Que esse novo ciclo venha com muitas conquistas, sonhos realizados e ainda mais momentos incríveis pra gente viver juntas.
+    
+                Te amo muito 💕`,
+        musica: "https://open.spotify.com/embed/track/5KUquu8L8azxlZjfCmKIfb"
     }
 
     
