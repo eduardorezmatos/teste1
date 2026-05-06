@@ -84,7 +84,7 @@ const pessoas = [
         fotos: ["images/joao_pedro1.jpeg", "images/joao_pedro2.jpeg", "images/joao_pedro3.jpeg", "images/joao_pedro4.jpeg"],
         carta: `A gente não é só amigo, é dupla do caos mesmo metade juízo, metade problema… e ainda assim a Lais me aguenta! 
                 Feliz aniversário pra essa albina que eu não troco por nada!”`,
-        musica: "https://open.spotify.com/embed/track/ID2"
+        musica: "https://open.spotify.com/embed/track/37hxrOc5I1faTMBwDI6FhT"
     },
 
     // Lara 
