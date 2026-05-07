@@ -26,7 +26,10 @@ const pessoas = [
                 te desejo tudo do bom e do melhor, muita saúde, dinheiro, amores que não sejam doidos. 
                 queria muuito te agradecer por todos os momentos que passamos juntos, acho que sou o seu amigo mais "recente" do grupo mas eu sinto que somos amigos há anos, saiba que sou eternamente grato pela nossa amizade, por todos os seus VÁRIOS ensinamentos, conselhos, por todo o apoio, as memórias que criamos juntos, os momentos felizes, tristes, de brigas, de risos, por toda a compreensão com meus defeitos/manias.
                 
-                Espero que continue sendo essa mulher(🤏) tão sorridente, animada, companheira, amiga e carinhosa (as vezes), você tem um dom de iluminar qualquer ambiente que você entra (literalmente) e deixa o clima tão agradável. Como te falei naquele dia no carro, acredito que vc ainda não tem ideia do quão sortudas as pessoas são por terem a Laís na vida delas e só é triste quem ainda não teve a chance de te conhecer. (Eclesiastes 6-14)
+                Espero que continue sendo essa mulher(🤏) tão sorridente, animada, companheira, amiga e carinhosa (as vezes), você tem um dom de iluminar qualquer ambiente que você entra (literalmente) e deixa o clima tão agradável. Como te falei naquele dia no carro, acredito que vc ainda não tem ideia do quão sortudas as pessoas são por terem a Laís na vida delas e só é triste quem ainda não teve a chance de te conhecer. 
+                
+                depois lê: (Eclesiastes 6-14)
+
                 Estarei aqui pra tudo o que você precisar, um ombro pra chorar, uma resenha pra espairecer, uma companhia pra desabafar, enfim qualquer coisa
                 Eu te amo muito muito. amo nossas brincadeiras de autistas, nossas brigas de irmão. 
                 
@@ -58,21 +61,33 @@ const pessoas = [
 
     {
         nome : "Giovana",
-        frase: "Quem sempre esteve comigo",
-        fotos: ["images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg", "images/IMG-20260326-WA0062.jpg"
-            ,"images/IMG-20260326-WA0062.jpg" 
+        frase: "As vezes a vida te dá pessoas especiais,e as pessoas especiais te dão vida",
+        fotos: ["images/giovana1.jpeg", "images/giovana2.jpeg", "images/giovana3.jpeg", "images/giovana4.jpeg" 
         ],
-        carta: `asda`,
-        musica: "https://open.spotify.com/embed/track/7e3XFd0hFNPvisBMDxLKrc"
+        carta: `Sabe aquelas pessoas que a vida coloca no nosso caminho e a gente só consegue pensar: “ainda bem que te encontrei”? Você é exatamente isso pra mim.
+                O que mais admiro em você é a sua capacidade de enxergar o melhor nas pessoas e nas situações.
+
+                Vc tem uma visão otimista da vida que contagia todos ao teu redor. Quando estou com você, é como se os problemas ficassem menores e as soluções mais próximas. Sua força, sua resiliência e sua alegria sao inspirações.
+
+                Você me ensinou tanto ao longo desse tempo de amizade, e nem sei se você tem noção disso. Aprendi a importância da lealdade, do respeito e, acima de tudo, da empatia. Você me mostrou que a verdadeira amizade é estar presente, não importa a situação, e que as palavras podem curar tanto quanto um abraço. E por isso, sou eternamente grata bem, obrigada por todos esses anos de amizade bem🩷
+                Sou imensamente grata pela nossa amizade, por cada gesto, cada ensinamento,cada apoio e por tudo que você faz por mim meu bem.Obrigada por ser essa amiga tão única.
+
+                Eu tenho um orgulho enorme da mulher que você está se tornando.Sua força, sua essência e seu jeito me inspiram mto.
+                Pode contar comigo pra tudo, sempre. Te amo, muito meu bem. Que a gente continue colecionando memórias inesquecíveis por muitos e muitos anos. 💛`,
+        musica: "https://open.spotify.com/embed/track/5wG7UpUik9lpxUWjQFadPo"
     },
     
     //igor
 
     {
         nome: "Igor",
-        frase: "A pessoa que sempre traz paz",
+        frase: "Do branco pra Branquela 💫",
         fotos: ["images/igor1.jpeg", "images/igor2.jpeg", "images/igor3.jpeg", "images/igor4.jpeg"],
-        carta: "Você é incrível!",
+        carta: `Eaaai branquela tá boa?? Pode falar, menino Eduardo amassou na surpresa né. 
+                
+        Senhora só passando pra te desejar um feliz aniversário, gosto de mais de você, te acho engraçada, gentil,, responsável, matura e principalmente muito humana, você tem o seu próprio jeito de ser e admiro muito isso em você. Já me ajudou muito a refletir questões que hoje são bases na minha crença e vida, obrigado por tudo isso branquela ! 
+                
+                No mais você sabe bem que pode sempre contar comigo, sempre vou estar aqui quando precisar, eu sei que as vezes eu sumo, mas eu sempre apareço de novo kkkk. Se cuida branquela, e aproveita seu dia, você merece tudo isso que está recebendo hoje, um beijuuu e um queijuuu 🤠`,
         musica: "https://open.spotify.com/embed/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     
@@ -105,7 +120,7 @@ const pessoas = [
     {
         nome: "Marilia",
         frase: "Minha filha mais nova que mais amo.",
-        fotos: ["images/marilia1.jpeg", "images/marilia2.jpeg", "images/marilia3.jpeg", "images/marilia4.jpeg"],
+        fotos: ["images/marilia5.jpeg", "images/marilia2.jpeg", "images/marilia3.jpeg", "images/marilia4.jpeg"],
         carta: `Querida Laís, 
                 Você há 19 anos vc me fez mãe pela segunda vez, uma mãe um pouquinho, um pacotinho de algodão de tão branquinha que vc veio. Como eu te amei e te amo e te amarei. Você é a sábia do nosso trizal ( eu, Ana e Laís). Mas é também a mais emburradeira, a mais velhinha, mas que eu amo até isso em você. 
                 Eu amo os seus defeitos, as suas qualidades, as suas rabujices, o seu companheirismo, a sua honestidade, o seu caráter, a sua seriedade. Peço a Deus todos os dias que mantenha você em segurança, com saúde e que te dê uma vida feliz, minha filha. 
@@ -129,6 +144,20 @@ const pessoas = [
     
                 Te amo muito 💕`,
         musica: "https://open.spotify.com/embed/track/5KUquu8L8azxlZjfCmKIfb"
+    },
+
+    //Susana
+
+    {
+        nome: "Susana Vó",
+        frase: "Laís, seja feliz na sua caminhada e que você galgue os mais altos passos.",
+        fotos: ["images/susana1.jpeg", "images/susana2.jpeg", "images/susana3.jpeg", "images/susana4.jpeg"],
+        carta: `Laís, querida e amada do meu coração ❤️ Parabéns e felicidades por essa data tão especial 👏👏👏👏👏 
+        
+                Que vc seja sempre esta mulher forte e bela, que transmite tantas boas energias a todos que te rodeiam !!!! Parabéns!!! Que a vida lhe traga bençãos, alegrias e que Deus esteja sempre ao seu lado! 
+                
+                    Beijos da VOVÓ SUSANA 🥰🥰 Te amo demais !!! 💖`,
+        musica: "https://open.spotify.com/embed/track/2TxCwUlqaOH3TIyJqGgR91"
     }
 
     
